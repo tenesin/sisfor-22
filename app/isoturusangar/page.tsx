@@ -1,10 +1,10 @@
 import React from 'react';
 
-function kami() {
+function isoTuru() {
   return (
     <div className="container my-20 mx-auto font-semibold">
       <h1 className="text-4xl">
-        Kami, <span className="text-blue-sisfor">Sistem Informasi 2022.</span>
+        Iso Turu <span className="text-blue-sisfor">Sangar!</span>
       </h1>
       <div className="flex justify-between">
         <h3 className="text-2xl">Tak kenal, maka tak sayang. Yuk kenalan ada siapa aja kita!</h3>
@@ -23,4 +23,4 @@ function kami() {
   );
 }
 
-export default kami;
+export default isoTuru;
