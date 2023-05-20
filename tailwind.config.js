@@ -8,6 +8,12 @@ module.exports = {
       },
 
       colors: {
+        'light-grey-sisfor': '#262626',
+        'semi-black-sisfor': '#0F0F0F',
+        'dark-grey-sisfor': '#C2163F',
+        'danger-medium-sisfor': '#F31B4F',
+        'danger-subtle-sisfor': '#C2163F',
+        'blue-sisfor': '#0171B9',
         'light-blue-sisfor': '#34B5E8',
         'dark-grey-sisfor': '#161616',
       },
